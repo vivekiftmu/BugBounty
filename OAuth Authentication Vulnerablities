@@ -1,0 +1,5 @@
+1. Authentication Bypass
+2. Forced Profile Linking
+3. Account Hijacking via redirect_uri
+4. Stealing Access Token via Open Redirect
+5. Stealing Access Token via Proxy Page
